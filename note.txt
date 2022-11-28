@@ -1,0 +1,30 @@
+ NAV
+payreflyer regular
+
+blog txt
+playfair display regular----------
+comment txt
+ubuntu light
+
+COLOR
+black-----#000000
+ash-------#626262
+
+nav
+
+LIFESTYLE
+PHOTODAIRY
+MUSIC
+TRAVEL
+
+body
+margin
+padding
+font-family
+font-size
+font-weight
+color
+
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
